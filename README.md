@@ -164,9 +164,3 @@ python manage.py test form_builder
 This project successfully delivers a **Full-Stack, production-ready Form Builder API**. It features an advanced **EAV architecture** for flexible schema management, robust **file handling**, and **asynchronous processing via Celery** for admin notifications. 
 
 The Admin API is specifically optimized with **server-side pagination, sorting, and searching** to interface seamlessly with modern frontends (like TanStack Table). This structure ensures the application is highly scalable, secure, and maintainable, satisfying all requirements for dynamic content generation and secure data management.
-
-## 💼 A Message to the Recruiter
-
-Thank you for the opportunity to complete this assessment. Working through the complexities of dynamic serialization, EAV design, and integrating modern tooling like Celery and DRF filters has been both challenging and exceptionally rewarding. 
-
-The experience has only amplified my interest and passion for the backend logic and full-stack development. I am highly enthusiastic about the prospect of bringing this dedicated and comprehensive approach to the Full Stack Developer role at Actserv and look forward to further correspondence.
